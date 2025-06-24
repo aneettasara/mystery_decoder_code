@@ -1,5 +1,6 @@
 # Mystery Word Grid Decoder
-# Author: [Your Name]
+# Author: Aneetta Sara Shany
+# Date: June 24, 2025
 # Description: Decodes a mystery word from a 5x5 character grid
 # using reversed diagonals.
 
